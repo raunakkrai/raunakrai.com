@@ -11,7 +11,7 @@ interface PageProps {
 const Page: NextPageWithLayout<PageProps> = ({ data }) => {
   return (
     <>
-      <NextSeo title="Deep Dives | Adam Majmudar" />
+      <NextSeo title="Deep Dives | Raunak Rai" />
       <VStack width="100%" spacing={4}>
         <Divider width="100%" />
         {data.map((dive) => (
