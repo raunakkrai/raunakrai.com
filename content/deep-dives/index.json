@@ -17,50 +17,5 @@
         "href": "https://github.com/raunak-rai/tiny-gpu"
       }
     ]
-  },
-  {
-    "title": "Deep Learning",
-    "image": "https://pbs.twimg.com/media/GOY9Th7a4AAPpR6?format=png&name=large",
-    "description": "Read and reimplemented the most important deep learning papers. Created a synthesis of the entire history of deep learning.",
-    "links": [
-      {
-        "label": "tweet",
-        "href": "https://x.com/MajmudarAdam/status/1794190796411027791"
-      },
-      {
-        "label": "raunak-rai/deep-learning",
-        "href": "https://github.com/raunak-rai/deep-learning"
-      }
-    ]
-  },
-  {
-    "title": "Energy",
-    "image": "https://pbs.twimg.com/media/GZ9diQsb0AM5qU3?format=jpg&name=large",
-    "description": "My synthesis of the entire energy industry and the fundamental relationship between energy and humanity. This is my proudest creation.",
-    "links": [
-      {
-        "label": "tweet",
-        "href": "https://x.com/MajmudarAdam/status/1846357368466297214"
-      },
-      {
-        "label": "energyandhumanity.com",
-        "href": "https://energyandhumanity.com"
-      }
-    ]
-  },
-  {
-    "title": "Robotics",
-    "image": "",
-    "description": "Learned about the history of robotics research and the future of humanoids.",
-    "links": [
-      {
-        "label": "tweet",
-        "href": "https://x.com/MajmudarAdam/status/1869207420888862786"
-      },
-      {
-        "label": "raunak-rai/robotics",
-        "href": "https://github.com/raunak-rai/robotics"
-      }
-    ]
   }
 ]
